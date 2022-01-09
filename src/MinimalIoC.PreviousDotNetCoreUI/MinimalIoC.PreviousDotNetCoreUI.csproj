@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MinimalIoC.AnyLayer\MinimalIoC.AnyLayer.csproj" />
+    <ProjectReference Include="..\MinimalIoC.AutoFacUtils\MinimalIoC.AutoFacUtils.csproj" />
   </ItemGroup>
 
 </Project>
