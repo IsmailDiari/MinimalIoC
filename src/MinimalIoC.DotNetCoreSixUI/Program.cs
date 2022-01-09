@@ -1,7 +1,7 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 
-using MinimalIoC.DotNetCoreSixUI.Extensions;
+using MinimalIoC.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 

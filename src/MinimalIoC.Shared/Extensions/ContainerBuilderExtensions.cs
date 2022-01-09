@@ -6,7 +6,7 @@ using System.Reflection;
 using Autofac;
 using Autofac.Core;
 
-namespace MinimalIoC.PreviousDotNetCoreUI.Extensions
+namespace MinimalIoC.Shared
 {
     public static class ContainerBuilderExtensions
     {
