@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-using MinimalIoC.Shared;
+using MinimalIoC.AutoFacUtils;
 
 namespace MinimalIoC.AnyLayer
 {

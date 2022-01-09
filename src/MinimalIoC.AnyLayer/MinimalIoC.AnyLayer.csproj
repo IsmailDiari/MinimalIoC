@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MinimalIoC.AutoFacUtils\MinimalIoC.AutoFacUtils.csproj" />
     <ProjectReference Include="..\MinimalIoC.Shared\MinimalIoC.AutoFacUtils.csproj" />
   </ItemGroup>
 
