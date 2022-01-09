@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 
 using Autofac;
 
-using MinimalIoC.Shared;
+using MinimalIoC.AutoFacUtils.Extensions;
 
 namespace MinimalIoC.PreviousDotNetCoreUI
 {

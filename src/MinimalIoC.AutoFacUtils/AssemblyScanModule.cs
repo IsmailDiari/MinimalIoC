@@ -2,7 +2,7 @@
 
 using Autofac;
 
-namespace MinimalIoC.Shared
+namespace MinimalIoC.AutoFacUtils
 {
     public abstract class AssemblyScanModule : Autofac.Module
     {

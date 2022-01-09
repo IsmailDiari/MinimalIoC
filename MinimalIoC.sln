@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalIoC.PreviousDotNetCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalIoC.AnyLayer", "src\MinimalIoC.AnyLayer\MinimalIoC.AnyLayer.csproj", "{DEB65BEF-01B8-413A-A6C4-9A727C42185C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalIoC.Shared", "src\MinimalIoC.Shared\MinimalIoC.Shared.csproj", "{5CB4C914-9478-444C-A5D0-E698D6BBC7EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalIoC.AutoFacUtils", "src\MinimalIoC.AutoFacUtils\MinimalIoC.AutoFacUtils.csproj", "{5CB4C914-9478-444C-A5D0-E698D6BBC7EE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2954BE7E-E5EF-4BA0-99D0-191D72979203}"
 EndProject

@@ -1,7 +1,7 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 
-using MinimalIoC.Shared;
+using MinimalIoC.AutoFacUtils.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
